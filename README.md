@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ArsenyYankovsky/recap.dev-server" target="_blank" align="center">
+  <a href="https://raw.githubusercontent.com/infinite-cat/recap.dev-server/master/logo.svg" target="_blank" align="center">
     <img src="logo.svg" width="300">
   </a>
   <br />
