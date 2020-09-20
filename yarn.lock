@@ -1043,16 +1043,17 @@
   dependencies:
     lodash.get "^4.4.2"
 
-"@recap.dev/client@^1.6.6":
-  version "1.6.6"
-  resolved "https://registry.yarnpkg.com/@recap.dev/client/-/client-1.6.6.tgz#d9296f3664fd6b965d17050334709358b8394a1a"
-  integrity sha512-O5Bi+13W96SIvHyRI5Ut14tMUtrOs/lxMxgPGlcshGYiVPl9q4XrdACX4tMtTZn5yMK9veB/cQ9hAUHaruAXTA==
+"@recap.dev/client@^1.7.1":
+  version "1.7.1"
+  resolved "https://registry.yarnpkg.com/@recap.dev/client/-/client-1.7.1.tgz#6cab5b18eac8baa94855bce61aa52c8077aa9318"
+  integrity sha512-rKpR7GGgjpKWzJU6ATk/yL1TrwXhfk9Zv4JBTOZKksV0S/1EqUsNvxsEpLwc+Ec3FFznTV4dO7WHytADUt2xbA==
   dependencies:
     lodash-es "^4.17.15"
     node-fetch "^2.6.0"
-    node-sql-parser "^1.9.1"
+    node-sql-parser "^3.1.0"
     serialize-error "^6.0.0"
     shimmer "^1.2.1"
+    uuid "^8.3.0"
 
 "@recap.dev/serverless-plugin@^1.1.0":
   version "1.1.0"
@@ -6383,10 +6384,10 @@ node-releases@^1.1.40:
   dependencies:
     semver "^6.3.0"
 
-node-sql-parser@^1.9.1:
-  version "1.11.0"
-  resolved "https://registry.yarnpkg.com/node-sql-parser/-/node-sql-parser-1.11.0.tgz#7f4a497f54befe341cbc0d9b916877471e182b76"
-  integrity sha512-lvXZ0fPh3J0bQ2/GHyVEqZ8k732SdLInTahkoUaPYYnYH0zp0XSprjyXkbt6TbA0ujLl1lp+wGnlJFINRWJ/ww==
+node-sql-parser@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/node-sql-parser/-/node-sql-parser-3.1.0.tgz#997e51581e89a218a91cabc2e863b072b5f9969f"
+  integrity sha512-bm1vct9T8EtPi4/z8GA/UbN/xEwfUQsqhvmgnwyNMRSiQ4jvukCE4Esl363HbnBnXFhc5T4V9DuO29pWtC0q6w==
   dependencies:
     big-integer "^1.6.48"
 
@@ -8901,6 +8902,11 @@ uuid@^3.0.0:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/uuid/-/uuid-3.3.3.tgz#4568f0216e78760ee1dbf3a4d2cf53e224112866"
   integrity sha512-pW0No1RGHgzlpHJO1nsVrHKpOEIxkGg1xB+v0ZmdNH5OAeAwzAVrCnI2/6Mtx+Uys6iaylxa+D3g4j63IKKjSQ==
+
+uuid@^8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.0.tgz#ab738085ca22dc9a8c92725e459b1d507df5d6ea"
+  integrity sha512-fX6Z5o4m6XsXBdli9g7DtWgAx+osMsRRZFKma1mIUsLCz6vRvv+pz5VNbyu9UEDzpMWulZfvpgb/cmDXVulYFQ==
 
 v8flags@^3.0.0:
   version "3.1.2"

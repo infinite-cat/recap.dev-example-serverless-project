@@ -16,7 +16,7 @@
     "@aws/dynamodb-auto-marshaller": "^0.7.1",
     "@aws/dynamodb-data-mapper": "^0.7.3",
     "@aws/dynamodb-data-mapper-annotations": "^0.7.3",
-    "@recap.dev/client": "^1.6.6",
+    "@recap.dev/client": "^1.7.1",
     "lodash-es": "^4.17.15",
     "mysql": "^2.18.1",
     "node-fetch": "^2.6.0",
