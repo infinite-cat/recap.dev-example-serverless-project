@@ -14,6 +14,6 @@ describe('http tracing', () => {
 
     const result = JSON.parse(response.Payload!.toString())
 
-    expect(result.all.length).toBeGreaterThan(1)
+    expect(result.length).toBeGreaterThan(1)
   })
 })
