@@ -17,7 +17,7 @@
     "@aws/dynamodb-data-mapper": "^0.7.3",
     "@aws/dynamodb-data-mapper-annotations": "^0.7.3",
     "@recap.dev/client": "^1.7.1",
-    "lodash-es": "^4.17.15",
+    "lodash-es": "^4.17.21",
     "mysql": "^2.18.1",
     "node-fetch": "^2.6.1",
     "pg": "^8.0.3",
